@@ -1,6 +1,6 @@
 # Sawo-Docs
 
-This repository contains all the documentations of the SAWO SDK. 
+This repository contains all the documentations of the SAWO SDK.
 
 If you have any questions, join the [official discord server](https://discord.com/invite/TpnCfMUE5P). You will be able to ask your queries to the SAWO Team and our engineers will help you out.
 
